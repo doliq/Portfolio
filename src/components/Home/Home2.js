@@ -19,37 +19,30 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with game development and, 
+              at this point, I think I’ve learned a thing or two… 🎮
               <br />
-              <br />I am fluent in classics like
+              <br />I’m an Information Technology student at the  
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> State Polytechnic of Malang </b>
+              </i>
+              who loves turning ideas into playable experiences.
+              <br />
+              <br />My main playgrounds are
+              <i>
+                <b className="purple"> Unity, Unreal and C#, </b>
+              </i>
+              but I also enjoy exploring
+              <i>
+                <b className="purple"> VR and interactive storytelling. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              I’m passionate about
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple"> blending creativity and technology </b>
               </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              to build games that feel alive — one pixel, one idea at a time.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

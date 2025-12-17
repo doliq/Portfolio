@@ -8,23 +8,38 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br />
-            I am currently employed as a software developer at Juspay.
-            <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+           Hi everyone! 👋
+           <br />
+           <br />
+
+          I’m 
+          <span className="purple"> Diwa Arsyad Atthoriq </span>
+          from Indonesia. I recently graduated with a 
+          <span className="purple"> Diploma in Information Technology </span>
+          from the
+          <span className="purple"> State Polytechnic of Malang </span>
+          , where I discovered my passion for game development.
+          <br />
+          <br />
+          I love combining
+          <span className="purple"> creativity and technology </span>  
+          to craft engaging and meaningful 
+          <span className="purple"> interactive experiences. </span> 
+          My main tools are 
+          <span className="purple"> Unity and C# </span>
+          , and I enjoy exploring 
+          <span className="purple"> VR and interactive storytelling </span> — anything that lets players feel truly immersed.
+          Along the way, I’ve also earned several certifications, including 
+          <span className="purple"> Unity Certified VR Developer (Certiport), BNSP System Analyst, </span>
+          and completed online courses in 
+          <span className="purple"> Golang, Unreal Engine, and C#. </span>
           </p>
           <ul>
             <li className="about-activity">
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Creation
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
@@ -32,9 +47,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "It is what it is!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Diwa Oliq</footer>
         </blockquote>
       </Card.Body>
     </Card>

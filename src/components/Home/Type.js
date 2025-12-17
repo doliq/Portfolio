@@ -9,7 +9,7 @@ function Type() {
           "VR Developer",
           "Game Developer",
           "System Analyst",
-          "UI/UX Designer",
+          "UI/UX",
         ],
         autoStart: true,
         loop: true,
